@@ -13,6 +13,10 @@ This is a forked repository from Colin Hildinger (colin1497)
 * Updated package and source for Spigot 1.11
 * Updated package and source for Bukkit 1.11
 
+## Tested on DSM Versions
+* DSM 5.2
+* DSM 6.0
+
 ## Original History
 
 Colin Hildinger wanted to set up a private Minecraft server for his son.  I found work by patters at:
@@ -29,6 +33,5 @@ http://blog.heatdfw.com/p/synology-minecraft-server-setup.html
 
 He started discussion threads at:
 
-http://forum.synology.com/enu/viewtopic.php?f=190&t=100311
-
-http://www.minecraftforum.net/forums/support/server-support/server-administration/2460654-synology-nas-minecraft-server-install-package
+* http://forum.synology.com/enu/viewtopic.php?f=190&t=100311
+* http://www.minecraftforum.net/forums/support/server-support/server-administration/2460654-synology-nas-minecraft-server-install-package
